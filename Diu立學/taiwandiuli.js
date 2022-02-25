@@ -10,6 +10,10 @@ function showResult() {
             resultText = "妳是個，びじん";
         } else if (date === "1996-10-21") { 
             resultText = "Diu 立學研究家の誕生日";
+        } else if (date === "2016-04-01") { 
+            resultText = "致狗の法定誕生日";
+        } else if (date === "2016-10-01") { 
+            resultText = "麥狗の法定誕生日";
         } else {
             resultText = "乎資です";
         }
